@@ -8,4 +8,5 @@ Daily leetcode attempts + Other important Questions on #100DaysOfCode
 |-----|----------------|---------------|-------------
 |#1|[Median Of 2 Sorted Array](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution](../master/solutions/1.cpp) |Hard
 |#2|[Longest Pallindromic Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)|[Solution](../master/solutions/2.cpp) |Hard
+|#2|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../master/solutions/3.cpp) |Medium
 
