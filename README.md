@@ -2,7 +2,7 @@
 
 Daily leetcode attempts + Other important Questions on #100DaysOfCode
 
-## Algorithms
+## Problems
 
 |  #  |      Title     |   Solutions    | Difficulty        
 |-----|----------------|---------------|-------------
@@ -10,4 +10,5 @@ Daily leetcode attempts + Other important Questions on #100DaysOfCode
 |#2|[Longest Pallindromic Substring](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)|[Solution](../master/solutions/2.cpp) |Hard
 |#3|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../master/solutions/3.cpp) |Easy
 |#4|[String to Int](https://leetcode.com/problems/string-to-integer-atoi)|[Solution](../master/solutions/4.cpp) |Medium
+|#5|[Pallindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](../master/solutions/5.cpp) |Medium
 
