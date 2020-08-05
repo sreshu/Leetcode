@@ -11,4 +11,6 @@ Daily leetcode attempts + Other important Questions on #100DaysOfCode
 |#3|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../master/solutions/3.cpp) |Easy
 |#4|[String to Int](https://leetcode.com/problems/string-to-integer-atoi)|[Solution](../master/solutions/4.cpp) |Medium
 |#5|[Pallindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](../master/solutions/5.cpp) |Medium
+|#6|[Roman to Int](https://leetcode.com/problems/roman-to-integer)|[Solution](../master/solutions/6.cpp) |Easy
+
 
