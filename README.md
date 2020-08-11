@@ -14,5 +14,6 @@ Daily leetcode attempts + Other important Questions on #100DaysOfCode
 |#6|[Roman to Int](https://leetcode.com/problems/roman-to-integer)|[Solution](../master/solutions/6.cpp) |Easy
 |#7|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](../master/solutions/7.cpp) |Medium
 |#8|[Merge 2 Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/solutions/8.cpp) |Easy
+|#9|[Maximum Subarray using Kadane's Algo](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/solutions/9.cpp)| Easy
 
 
