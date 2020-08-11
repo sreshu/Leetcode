@@ -15,5 +15,6 @@ Daily leetcode attempts + Other important Questions on #100DaysOfCode
 |#7|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution](../master/solutions/7.cpp) |Medium
 |#8|[Merge 2 Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/solutions/8.cpp) |Easy
 |#9|[Maximum Subarray using Kadane's Algo](https://leetcode.com/problems/maximum-subarray/)|[Solution](../master/solutions/9.cpp)| Easy
+|#10|[Seperate out caps]()[Solution](../master/solutions/10.cpp)|Easy
 
 
